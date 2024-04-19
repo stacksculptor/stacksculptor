@@ -90,16 +90,13 @@
   ### Crypto Trading Platforms & Bots
   <br />
 
-  ### Website and Mobile application
+  ### Website application
   <br />
 
-  ### Video Conference Web & Mobile application
+  ### Video Conference Web application
   <br />
   
-  ### SaaS/CRM/CMS/E-Commerce Web & Mobile application
-  <br />
-  
-  ### 2D / 3D Unity Game & application
+  ### SaaS/CRM/CMS/E-Commerce Web application
   <br />
 
 </div>
