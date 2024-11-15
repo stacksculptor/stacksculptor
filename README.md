@@ -7,6 +7,8 @@
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
+- 💪 Expert in PHP, Symfony, CI, Laravel, PostgreSQL, MySQL, Reactm Vue, Next, LAMP Stack. 
+
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies such as Next.js, TailwindCSS, GCP. 
 
 - 📚 Love reading books on personal development & financial literacy. 
