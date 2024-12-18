@@ -1,13 +1,13 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Senior FullStack Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m Senior FullStack Blockchain Developer</h1>
 
 <p align="center">
-  <h3 align="center">A Passionate & Senior FullStack Developer +7 years exp</h3>
+  <h3 align="center">A Passionate & Senior FullStack Blockchain Developer +7 years exp</h3>
 
 - 😎 Interested in contributing expertise in web fullstack development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
-- 💪 Expert in PHP, Symfony, CI, Laravel, PostgreSQL, MySQL, Reactm Vue, Next, LAMP Stack. 
+- 💪 Expert in Solana, Rust, Solidity, Smart Contracts, Ethereum, Blockchain Architecture and DApp Mobile Development
 
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies such as Next.js, TailwindCSS, GCP. 
 
