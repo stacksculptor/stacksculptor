@@ -86,7 +86,11 @@
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-  ### DApps & Online Betting Website
+  ### DApps & Online Betting Website, Zero-Knowledge
+  <br />
+
+  ### Decentralized Identity Systems
+
   <br />
 
   ### Crypto Trading Platforms & Bots
