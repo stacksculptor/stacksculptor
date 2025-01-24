@@ -1,7 +1,7 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Senior FullStack Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m Senior FullStack Blockchain Developer</h1>
 
 <p align="center">
-  <h3 align="center">A Passionate & Senior FullStack Developer +7 years exp</h3>
+  <h3 align="center">A Passionate & Senior FullStack Blockchain Developer +5 years exp</h3>
 
 - 😎 Interested in contributing expertise in web fullstack development
 
